@@ -1,0 +1,9 @@
+{
+    "latestVersion": "1.0.1",
+    "latestVersionCode": 1,
+    "url": "https://lockchatmobile.s3-ap-southeast-1.amazonaws.com/lockchat-beta.apk",
+    "releaseNotes": [
+      "- 加密问题",
+      "- 从后端到前端，特殊密码锁屏没作用",
+    ]
+  }
