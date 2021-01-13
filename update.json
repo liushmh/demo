@@ -1,6 +1,6 @@
 {
     "latestVersion": "4.13.5",
-    "url": "https://lockchatmobile.s3-ap-southeast-1.amazonaws.com/lockchat-beta.apk",
+    "url": "https://lockchatmobile.s3-ap-southeast-1.amazonaws.com/download.html",
     "releaseNotes": [
       "- 闪退",
       "- 从后端到前端，E2E状态无法保持"
