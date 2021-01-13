@@ -1,9 +1,9 @@
 {
-    "latestVersion": "4.13.2",
-    "latestVersionCode": 3,
+    "latestVersion": "4.13.5",
+    "latestVersionCode": 1,
     "url": "https://lockchatmobile.s3-ap-southeast-1.amazonaws.com/lockchat-beta.apk",
     "releaseNotes": [
-      "- 首页启动问题",
-      "- 从后端到前端，特殊密码锁屏没作用",
+      "- 闪退",
+      "- 从后端到前端，E2E状态无法保持"
     ]
   }
